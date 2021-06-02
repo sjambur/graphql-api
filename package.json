@@ -17,8 +17,8 @@
     "lodash": "^4.17.21",
     "nodemon": "^2.0.7"
   },
-  "nodemonConfig":{
-    "env":{
+  "nodemonConfig": {
+    "env": {
       "APOLLO_KEY": "service:SessionAPI-0yc7it:rGkIGfHASw3jkp3nbsPoog"
     }
   }
